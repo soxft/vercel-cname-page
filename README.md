@@ -10,7 +10,7 @@
 
 1. 项目使用 Aliyun 企业 DNS.
 2. 大陆区域, 手动进行 分运营商/分地区 解析优化.
-3. 非大陆区域, 使用 Vercel Anycast IP
+3. 非大陆区域, 使用 Vercel Anycast IP.
 
 # SpeedTest Results
 
